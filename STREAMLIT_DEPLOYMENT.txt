@@ -1,0 +1,19 @@
+RIDESMART - GITHUB UPLOAD CHECKLIST
+
+1. Extract this ZIP on your computer.
+2. Open the extracted folder.
+3. Upload ALL contents inside it to the ROOT of your GitHub repository.
+   Upload the data folder itself, not just its contents.
+4. Your GitHub repository's main page must show:
+   - app.py
+   - requirements.txt
+   - README.md
+   - data/
+5. Open data/ and check that the CSV files are inside it.
+6. In Streamlit Community Cloud, use:
+   Main file path: app.py
+
+IMPORTANT:
+- Do not upload only this ZIP file to GitHub.
+- Do not put app.py inside another nested folder.
+- Do not rename the data folder or the CSV files.
