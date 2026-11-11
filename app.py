@@ -6,7 +6,7 @@ import plotly.graph_objects as go
 from pathlib import Path
 
 st.set_page_config(page_title="RideSmart | Fleet Decision Support", page_icon="🚕", layout="wide")
-DATA_DIR = Path(__file__).parent / "data"
+DATA_DIR = Path(__file__).parent
 FLEET_SIZE = 500
 UTILISATION = 0.85
 
